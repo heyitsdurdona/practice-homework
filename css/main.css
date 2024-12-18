@@ -263,7 +263,8 @@ site-header__search-form-input::placeholdr{
     width: 100%;
     margin-top: 33px;
     margin-bottom: 68px;
-    padding: 18px 510px;
+    padding: 12px 24px;
+
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -295,7 +296,7 @@ site-header__search-form-input::placeholdr{
 .footer__info-wrapper{
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     
 }
 
@@ -369,6 +370,8 @@ site-header__search-form-input::placeholdr{
     letter-spacing: -0.2px;
     color: #000000;
 }
+
+
 
 
 
